@@ -1,0 +1,19 @@
+---
+ID: 10
+post_title: Home
+author: lousyleonard
+post_date: 2017-03-10 10:01:37
+post_excerpt: ""
+layout: page
+permalink: http://localhost/wordpress/
+published: true
+catchevolution-sidebarlayout:
+  - no-sidebar
+panels_data:
+  - 'a:3:{s:7:"widgets";a:1:{i:0;a:11:{s:5:"title";s:15:"Map of My Posts";s:6:"region";s:4:"auto";s:8:"taxonomy";s:8:"post_tag";s:6:"parent";s:0:"";s:7:"maptype";s:7:"roadmap";s:14:"maptypecontrol";s:4:"true";s:10:"infowindow";s:4:"true";s:6:"target";s:5:"_self";s:5:"width";i:800;s:6:"height";i:600;s:11:"panels_info";a:6:{s:5:"class";s:20:"MapMyPostsWidgetGmap";s:4:"grid";i:0;s:4:"cell";i:1;s:2:"id";i:0;s:9:"widget_id";s:36:"98c129d3-eee4-4de0-a8c3-26595ab42906";s:5:"style";a:2:{s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";}}}}s:5:"grids";a:1:{i:0;a:2:{s:5:"cells";i:3;s:5:"style";a:8:{s:7:"padding";s:15:"0px 0px 0px 0px";s:14:"mobile_padding";s:15:"0px 0px 0px 0px";s:27:"background_image_attachment";b:0;s:18:"background_display";s:4:"tile";s:12:"border_color";s:7:"#161616";s:11:"row_stretch";s:4:"full";s:14:"collapse_order";s:8:"left-top";s:14:"cell_alignment";s:10:"flex-start";}}}s:10:"grid_cells";a:3:{i:0;a:4:{s:4:"grid";i:0;s:5:"index";i:0;s:6:"weight";d:0.33333333333333331;s:5:"style";a:0:{}}i:1;a:4:{s:4:"grid";i:0;s:5:"index";i:1;s:6:"weight";d:0.33333333333333331;s:5:"style";a:0:{}}i:2;a:4:{s:4:"grid";i:0;s:5:"index";i:2;s:6:"weight";d:0.33333333333333331;s:5:"style";a:0:{}}}}'
+ams-hide-page-and-post-title:
+  - 'off'
+st_hide_title_check_option:
+  - null
+---
+<div id="pl-10"  class="panel-layout" ><div id="pg-10-0"  class="panel-grid panel-has-style"  data-style="{&quot;padding&quot;:&quot;0px 0px 0px 0px&quot;,&quot;mobile_padding&quot;:&quot;0px 0px 0px 0px&quot;,&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;,&quot;border_color&quot;:&quot;#161616&quot;,&quot;row_stretch&quot;:&quot;full&quot;,&quot;collapse_order&quot;:&quot;left-top&quot;,&quot;cell_alignment&quot;:&quot;flex-start&quot;}" ><div class="siteorigin-panels-stretch panel-row-style panel-row-style-for-10-0" data-stretch-type="full" ><div id="pgc-10-0-0"  class="panel-grid-cell panel-grid-cell-empty"  data-weight="0.33333333333333" ></div><div id="pgc-10-0-1"  class="panel-grid-cell panel-grid-cell-mobile-last"  data-weight="0.33333333333333" ><div id="panel-10-0-1-0" class="so-panel widget widget_mapmypostswidgetgmap widget_mmp_gmap panel-first-child panel-last-child" data-index="0" data-style="{&quot;background_image_attachment&quot;:false,&quot;background_display&quot;:&quot;tile&quot;}" >[siteorigin_widget class="MapMyPostsWidgetGmap"]<input type="hidden" value="{&quot;instance&quot;:{&quot;title&quot;:&quot;Map of My Posts&quot;,&quot;region&quot;:&quot;auto&quot;,&quot;taxonomy&quot;:&quot;post_tag&quot;,&quot;parent&quot;:&quot;&quot;,&quot;maptype&quot;:&quot;roadmap&quot;,&quot;maptypecontrol&quot;:&quot;true&quot;,&quot;infowindow&quot;:&quot;true&quot;,&quot;target&quot;:&quot;_self&quot;,&quot;width&quot;:800,&quot;height&quot;:600},&quot;args&quot;:{&quot;before_widget&quot;:&quot;&lt;div id=\&quot;panel-10-0-1-0\&quot; class=\&quot;so-panel widget widget_mapmypostswidgetgmap widget_mmp_gmap panel-first-child panel-last-child\&quot; data-index=\&quot;0\&quot; data-style=\&quot;{&amp;quot;background_image_attachment&amp;quot;:false,&amp;quot;background_display&amp;quot;:&amp;quot;tile&amp;quot;}\&quot; &gt;&quot;,&quot;after_widget&quot;:&quot;&lt;\/div&gt;&quot;,&quot;before_title&quot;:&quot;&lt;h3 class=\&quot;widget-title\&quot;&gt;&quot;,&quot;after_title&quot;:&quot;&lt;\/h3&gt;&quot;,&quot;widget_id&quot;:&quot;widget-0-1-0&quot;}}" />[/siteorigin_widget]</div></div><div id="pgc-10-0-2"  class="panel-grid-cell panel-grid-cell-empty"  data-weight="0.33333333333333" ></div></div></div></div>
