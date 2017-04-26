@@ -11,7 +11,7 @@ published: true
 st_hide_title_check_option:
   - null
 ---
-<div class="blocktext-career-heading"><strong>[wpbsearch]</strong></div>
+<div class="blocktext-career-heading" style="text-align: right;"><strong>[wpbsearch]</strong></div>
 <div class="blocktext-career-heading"></div>
 <div class="blocktext-career-heading">This is a role when you would be working across Cornwall, working in the integrated community mental health team. Working within adult mental health you will provide evidence-based interventions to a broad range of people who have severe and/or enduring mental health needs. You will be responsible for clinical management of a defined caseload.</div>
 <div class="blocktext">
