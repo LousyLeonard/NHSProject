@@ -10,6 +10,6 @@ published: true
 st_hide_title_check_option:
   - null
 ---
-Contact US here...
+Contact Us here...
 
 [contact-form-7 id="245" title="Contact Us"]
